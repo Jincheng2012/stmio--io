@@ -1,0 +1,2 @@
+# stmio--io
+使用stmduino和python实现的通过stm32f103c8t6给电脑扩展一些gpio以及adc输入和pwm输出，提供标准的python库便于直接调用控制stm32
